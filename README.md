@@ -48,6 +48,7 @@ Before you begin, ensure you have the following installed:
 
 ## Project Structure
 
+```text
 .
 ├── src/
 │   ├── main/
@@ -69,6 +70,7 @@ Before you begin, ensure you have the following installed:
 ├── webpack.plugins.ts        # Webpack plugins
 ├── webpack.renderer.config.ts # Webpack configuration for renderer process
 └── webpack.rules.ts          # Webpack rules
+```
 
 ## Scripts
 
