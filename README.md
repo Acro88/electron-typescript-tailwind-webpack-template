@@ -24,19 +24,27 @@ Before you begin, ensure you have the following installed:
 2. Name your new project and create the repository.
 3. Clone your new repository locally:
 
+    ```bash
     git clone https://github.com/Acro88/electron-typescript-tailwind-webpack-template.git
+    ```
 
 4. Navigate to the project directory:
 
-   cd your-project-name
+    ```bash
+    cd your-project-name
+    ```
 
 5. Install dependencies:
 
-   npm install
+    ```bash
+    npm install
+    ```
 
 6. Run the application in development mode:
 
-   npm start
+    ```bash
+    npm start
+    ```
 
 ## Project Structure
 
